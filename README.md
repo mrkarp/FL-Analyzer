@@ -1,4 +1,4 @@
-FLInstaller
+FL Analyzer
 ===========
 
-FreeLancer Custom Installer
+FreeLancer Ini Viewer
